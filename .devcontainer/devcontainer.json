@@ -1,4 +1,4 @@
-{
+    {
   "dockerComposeFile": "./docker-compose.yml",
   "service": "auto-gpt",
   "workspaceFolder": "/workspace/Auto-GPT",
